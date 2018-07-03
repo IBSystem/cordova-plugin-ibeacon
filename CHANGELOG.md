@@ -1,6 +1,6 @@
 # 3.6.1
 
-* Fixes: https://github.com/petermetz/cordova-plugin-ibeacon/issues/259
+* Fixes: https://github.com/IBSystem/cordova-plugin-ibeacon/issues/259
 
 # 3.6.0
 
@@ -10,22 +10,22 @@
 # 3.5.6
 
 * iOS 11 .plist compatibility added (`NSLocationAlwaysAndWhenInUseUsageDescription`)
-    - https://github.com/petermetz/cordova-plugin-ibeacon/issues/322
+    - https://github.com/IBSystem/cordova-plugin-ibeacon/issues/322
 
 # 3.5.5
 
-* Fixes: https://github.com/petermetz/cordova-plugin-ibeacon/issues/323
+* Fixes: https://github.com/IBSystem/cordova-plugin-ibeacon/issues/323
     - Upgrades to the latest stable AltBeacon library at present (v2.12.4)
 
 # 3.5.4
 
 * Fix: Cordova Android 7.0.0 build issues averted:
-    - https://github.com/petermetz/cordova-plugin-ibeacon/pull/337
+    - https://github.com/IBSystem/cordova-plugin-ibeacon/pull/337
 
 # 3.5.3
 
 * Fix: WKWebView crash no longer happens
-    - https://github.com/petermetz/cordova-plugin-ibeacon/pull/326
+    - https://github.com/IBSystem/cordova-plugin-ibeacon/pull/326
 
 # 3.5.2
 
@@ -38,7 +38,7 @@
 # 3.5.0
 
 * Upgraded AltBeacon to v2.11
-* iBeacon advertising added for Android: https://github.com/petermetz/cordova-plugin-ibeacon/pull/282/commits/85967c962acd0ba50b5f1ccce89c3e28873e4530
+* iBeacon advertising added for Android: https://github.com/IBSystem/cordova-plugin-ibeacon/pull/282/commits/85967c962acd0ba50b5f1ccce89c3e28873e4530
 * Smaller fixes/updates
 
 # 3.4.1

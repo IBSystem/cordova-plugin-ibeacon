@@ -26,4 +26,4 @@ The newer versins of the cordova CLI come with features to help you do that:
     </edit-config>
 ```
 
-https://github.com/petermetz/cordova-plugin-ibeacon/issues/310#issuecomment-329564186
+https://github.com/IBSystem/cordova-plugin-ibeacon/issues/310#issuecomment-329564186
